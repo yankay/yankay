@@ -15,10 +15,7 @@ If you are interested in me, please feel free to email me:  📫 yankaycom@gmail
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yankay/yankay/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/yankay">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=yankay&show_icons=true&theme=buefy" />
-</a>
-<a href="https://github.com/yankay">
-  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yankay&layout=compact&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yankay&show_icons=true" />
 </a>
 
 
