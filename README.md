@@ -10,7 +10,7 @@ If you are interested in me, please feel free to email me:  📫 yankaycom@gmail
 
 😄 KubeSpray Maintainer
 
-![Metrics](https://github.com/yankay/yankay/blob/master/github-metrics.svg)
+![Metrics](https://github.com/yankay/yankay/blob/main/github-metrics.svg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yankay/yankay/output/github-contribution-grid-snake.svg)
 
