@@ -18,5 +18,4 @@ jobs:
           # Options
           user: yankay
           template: classic
-          config_timezone: Asia/Shanghai
-          base: activity, community
+          base: header, activity, community
