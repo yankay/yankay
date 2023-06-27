@@ -19,3 +19,4 @@ jobs:
           user: yankay
           template: classic
           config_timezone: Asia/Shanghai
+          base: activity, community
