@@ -3,6 +3,9 @@ name: generate animation
 on:
   schedule:
     - cron: "* */12 * * *" # every 6 hours
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main"]}
 
 jobs:
   generate:
