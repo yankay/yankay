@@ -8,7 +8,7 @@ If you are interested in me, please feel free to email me:  📫 yankaycom@gmail
 
 🔭 I’m currently working on DaoCloud, ex EMC, ex Nanjing University
 
-😄 KubeSpray Maintainer
+😄 [Kubespray](https://github.com/kubernetes-sigs/kubespray), [Containerd/Nerdctl](https://github.com/containerd/nerdctl/pull/1511) Maintainer
 
 ![Metrics](https://github.com/yankay/yankay/blob/main/github-metrics.svg)
 
