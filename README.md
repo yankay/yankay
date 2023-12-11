@@ -6,7 +6,7 @@ If you are interested in me, please feel free to email me:  📫 yankaycom@gmail
 
 ⚡ Fun fact: **Cloud Native**    
 
-🔭 I’m currently working on DaoCloud, ex EMC, ex Nanjing University(Top 7 in CHN.)
+🔭 I’m currently working on DaoCloud, ex EMC, ex [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University)
 
 😄 [Kubespray](https://github.com/kubernetes-sigs/kubespray), [Containerd/Nerdctl](https://github.com/containerd/nerdctl) Maintainer
 
