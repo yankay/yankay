@@ -2,8 +2,6 @@
 
 If you are interested in me, please feel free to email me:  📫 yankaycom@gmail.com
 
-🌱 My blog: www.yankay.com  
-
 ⚡ Fun fact: **Cloud Native**    
 
 🔭 I’m currently working on [DaoCloud](https://www.daocloud.io/en/), ex [EMC](https://en.wikipedia.org/wiki/Dell_EMC), ex [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University)
