@@ -19,7 +19,7 @@ If you are interested in me, please feel free to email me:  📫 yankaycom@gmail
 * [2023 "Top Ten Outstanding Software Engineers" - China Electronic Information Industry Federation](https://baijiahao.baidu.com/s?id=1776345995076640356&wfr=spider&for=pc)
 * [2019 Forbes List of China’s 30 elites under 30 years old - Forbes China](https://www.forbeschina.com/lists/1725)
 * 2012 EMC Global Innovation Showcase CTO Award
-* 2007 Top 10 in ACM/ICPC Asian Regional Competition Nanjing Division
+* 2007 Top 10 in [ACM/ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest) Asian Regional Competition Nanjing Division
 
 ![Metrics](https://github.com/yankay/yankay/blob/main/github-metrics.svg)
 
