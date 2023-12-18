@@ -1,8 +1,6 @@
-## Welcome to yankay's Homepage 👋 
+## Hi 👋 I am Kay Yan (颜开)
 
-Chinese Name：颜开. 
-
-If you are interested in me, please feel free to email me:  📫 yankaycom@gmail.com. 
+If you are interested in me, please email me:  📫 yankaycom@gmail.com. 
 
 ⚡ Fun fact: **Cloud Native**    
 
