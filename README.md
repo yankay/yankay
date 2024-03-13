@@ -10,6 +10,7 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 
 🌱 Learning and Sharing
 
+* [2024 KubeCon Europe - How to Deploy an AI-Optimized K8s Cluster with Kubespray - Kay Yan, DaoCloud & Mohamed Zaian, New Work SE](https://kccnceu2024.sched.com/event/1YhhP/how-to-deploy-an-ai-optimized-k8s-cluster-with-kubespray-kay-yan-daocloud-mohamed-zaian-new-work-se)
 * [2023 KubeCon China - SIG Cluster Lifecycle: What's New in Kubespray - Kay Yan, DaoCloud](https://kccncosschn2023.sched.com/event/1PTJt/sigzhong-shi-chang-potodaepkubesprayzha-xia-sig-cluster-lifecycle-whats-new-in-kubespray-kay-yan-daocloud)
 
 🏆 Honors：
