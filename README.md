@@ -30,5 +30,6 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 
 📷 Photo:
 
-<img src="./pictures/self.jpg" alt="self" height="140"><img src="./pictures/together.jpg" alt="together" height="140">
+<img src="./pictures/self.jpg" alt="self" height="140"><img src="./pictures/together.jpg" alt="together" height="140"><img src="./pictures/with-linus.jpg" alt="with-linus" height="140">
+
 
