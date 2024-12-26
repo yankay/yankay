@@ -19,3 +19,7 @@ jobs:
           user: yankay
           template: classic
           base: header, activity, community
+          config_timezone: Asia/Shanghai
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_notable: yes
