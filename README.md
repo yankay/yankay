@@ -24,7 +24,7 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yankay/yankay/output/github-contribution-grid-snake.svg)
 
-✈🛸 Badges：
+🛸 Badges：
 
 <img src="https://images.credly.com/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" height="100"/><img src="https://images.credly.com/images/7452e181-d092-4b92-934f-dfc16d9061e9/image.png" height="100"/><img src="https://images.credly.com/images/659b3a27-9b9d-4a19-8548-b686d3563c2b/image.png" height="100"/><img src="https://images.credly.com/images/8ce9ab71-6745-4b22-98f2-99f3b12a3aa6/image.png" height="100"/><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="100"/><img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" height="100"/><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height="100"/>
 
