@@ -2,7 +2,7 @@
 
 If you are interested in me, please email me:  📫 yankaycom@gmail.com. 
 
-⚡ Fun fact: **Cloud Native**,**AI/LLM**  
+⚡ Fun fact: **Cloud Native**, **AI/LLM**  
 
 🔭 I’m currently working on [DaoCloud](https://www.daocloud.io/en/), ex [EMC](https://en.wikipedia.org/wiki/Dell_EMC), ex [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University)
 
