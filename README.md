@@ -11,14 +11,11 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 🌱 Learning and Sharing
 
 Recent Events:
+- **2025 KubeCon Japan**: [Sailing Multi-host Inference for LLM on Kubernetes](https://kccncjpn2025.sched.com/event/1x6zY/sailing-multi-host-inference-for-llm-on-kubernetes-kay-yan-daocloud)
+- **2025 KubeCon China**: [AI-Powered Kubernetes Diagnostics With K8sGPT & Agentic AI](https://kccncchn2025.sched.com/event/1x5iR/cl-lightning-talk-ai-powered-kubernetes-diagnostics-with-k8sgpt-kay-yan-daocloud)
+- **2025 KubeCon China**: [Building Custom GPU Clusters at Scale][def]
 
-| Year | Event           | Title & Link                                                                                                                                                                                                                                 | Speakers                                 |
-|------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| 2025 | KubeCon Japan  | [Sailing Multi-host Inference for LLM on Kubernetes](https://kccncjpn2025.sched.com/event/1x6zY/sailing-multi-host-inference-for-llm-on-kubernetes-kay-yan-daocloud)                                                                       | Kay Yan (DaoCloud)<br>Kerthcet Yin (DaoCloud) |
-| 2025 | KubeCon China  | [AI-Powered Kubernetes Diagnostics With K8sGPT & Agentic AI ](https://kccncchn2025.sched.com/event/1x5iR/cl-lightning-talk-ai-powered-kubernetes-diagnostics-with-k8sgpt-kay-yan-daocloud)                           | Kay Yan (DaoCloud)                        |
-| 2025 | KubeCon China  | [Building Custom GPU Clusters at Scale: Using Kubespray To Create High-Performance AI Infrastructure](https://kccncchn2025.sched.com/event/1x5hZ/building-custom-gpu-clusters-at-scale-using-kubespray-to-create-high-performance-ai-infrastructure-kay-yan-daocloud-rong-zhang-vivo) | Kay Yan (DaoCloud)<br>Rong Zhang (vivo)    |
-
-* 📑 [See more slides](slides/README.md)
+See [more slides](slides/README.md)
 
 🏆 Honors：
 
@@ -40,3 +37,6 @@ Recent Events:
 <img src="./pictures/self.jpg" alt="self" height="140"><img src="./pictures/together.jpg" alt="together" height="140"><img src="./pictures/with-linus.jpg" alt="with-linus" height="140">
 
 
+
+
+[def]: https://kccncchn2025.sched.com/event/1x5hZ/building-custom-gpu-clusters-at-scale-using-kubespray-to-create-high-performance-ai-infrastructure-kay-yan-daocloud-rong-zhang-vivo
