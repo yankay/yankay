@@ -10,8 +10,15 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 
 🌱 Learning and Sharing
 
-* [2024 KubeCon Europe - How to Deploy an AI-Optimized K8s Cluster with Kubespray - Kay Yan, DaoCloud & Mohamed Zaian, New Work SE](https://kccnceu2024.sched.com/event/1YhhP/how-to-deploy-an-ai-optimized-k8s-cluster-with-kubespray-kay-yan-daocloud-mohamed-zaian-new-work-se)
-* [2023 KubeCon China - SIG Cluster Lifecycle: What's New in Kubespray - Kay Yan, DaoCloud](https://kccncosschn2023.sched.com/event/1PTJt/sigzhong-shi-chang-potodaepkubesprayzha-xia-sig-cluster-lifecycle-whats-new-in-kubespray-kay-yan-daocloud)
+Recent Events:
+
+| Year | Event           | Title & Link                                                                                                                                                                                                                                 | Speakers                                 |
+|------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| 2025 | KubeCon Japan  | [Sailing Multi-host Inference for LLM on Kubernetes](https://kccncjpn2025.sched.com/event/1x6zY/sailing-multi-host-inference-for-llm-on-kubernetes-kay-yan-daocloud)                                                                       | Kay Yan (DaoCloud)<br>Kerthcet Yin (DaoCloud) |
+| 2025 | KubeCon China  | [AI-Powered Kubernetes Diagnostics With K8sGPT & Agentic AI ](https://kccncchn2025.sched.com/event/1x5iR/cl-lightning-talk-ai-powered-kubernetes-diagnostics-with-k8sgpt-kay-yan-daocloud)                           | Kay Yan (DaoCloud)                        |
+| 2025 | KubeCon China  | [Building Custom GPU Clusters at Scale: Using Kubespray To Create High-Performance AI Infrastructure](https://kccncchn2025.sched.com/event/1x5hZ/building-custom-gpu-clusters-at-scale-using-kubespray-to-create-high-performance-ai-infrastructure-kay-yan-daocloud-rong-zhang-vivo) | Kay Yan (DaoCloud)<br>Rong Zhang (vivo)    |
+
+* 📑 [See more slides](slides/README.md)
 
 🏆 Honors：
 
@@ -26,7 +33,16 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 
 🛸 Badges：
 
-<img src="https://images.credly.com/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" height="100"/><img src="https://images.credly.com/images/7452e181-d092-4b92-934f-dfc16d9061e9/image.png" height="100"/><img src="https://images.credly.com/images/659b3a27-9b9d-4a19-8548-b686d3563c2b/image.png" height="100"/><img src="https://images.credly.com/images/8ce9ab71-6745-4b22-98f2-99f3b12a3aa6/image.png" height="100"/><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="100"/><img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" height="100"/><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height="100"/>
+<img src="https://images.credly.com/images/43195a73-9ee6-40c7-bd75-eae8515ac836/blob" height="100"/>
+<img src="https://images.credly.com/images/67a3d9a6-e07c-443e-9ac3-e72067b407d8/blob" height="100"/>
+<img src="https://images.credly.com/images/ebedf05f-3b04-4163-a147-9e469bdaddbf/blob" height="100"/>
+<img src="https://images.credly.com/images/7452e181-d092-4b92-934f-dfc16d9061e9/image.png" height="100"/>
+<img src="https://images.credly.com/images/659b3a27-9b9d-4a19-8548-b686d3563c2b/image.png" height="100"/>
+<img src="https://images.credly.com/images/8ce9ab71-6745-4b22-98f2-99f3b12a3aa6/image.png" height="100"/>
+<img src="https://images.credly.com/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" height="100"/>
+<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="100"/>
+<img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" height="100"/>
+<img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height="100"/>
 
 📷 Photo:
 
