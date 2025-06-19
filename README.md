@@ -33,16 +33,7 @@ Recent Events:
 
 🛸 Badges：
 
-<img src="https://images.credly.com/images/43195a73-9ee6-40c7-bd75-eae8515ac836/blob" height="100"/>
-<img src="https://images.credly.com/images/67a3d9a6-e07c-443e-9ac3-e72067b407d8/blob" height="100"/>
-<img src="https://images.credly.com/images/ebedf05f-3b04-4163-a147-9e469bdaddbf/blob" height="100"/>
-<img src="https://images.credly.com/images/7452e181-d092-4b92-934f-dfc16d9061e9/image.png" height="100"/>
-<img src="https://images.credly.com/images/659b3a27-9b9d-4a19-8548-b686d3563c2b/image.png" height="100"/>
-<img src="https://images.credly.com/images/8ce9ab71-6745-4b22-98f2-99f3b12a3aa6/image.png" height="100"/>
-<img src="https://images.credly.com/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" height="100"/>
-<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="100"/>
-<img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" height="100"/>
-<img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height="100"/>
+<img src="https://images.credly.com/images/43195a73-9ee6-40c7-bd75-eae8515ac836/blob" height="100"/><img src="https://images.credly.com/images/67a3d9a6-e07c-443e-9ac3-e72067b407d8/blob" height="100"/><img src="https://images.credly.com/images/ebedf05f-3b04-4163-a147-9e469bdaddbf/blob" height="100"/><img src="https://images.credly.com/images/7452e181-d092-4b92-934f-dfc16d9061e9/image.png" height="100"/><img src="https://images.credly.com/images/659b3a27-9b9d-4a19-8548-b686d3563c2b/image.png" height="100"/><img src="https://images.credly.com/images/8ce9ab71-6745-4b22-98f2-99f3b12a3aa6/image.png" height="100"/><img src="https://images.credly.com/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" height="100"/><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="100"/><img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" height="100"/><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" height="100"/>
 
 📷 Photo:
 
