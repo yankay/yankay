@@ -6,7 +6,7 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 
 🔭 I’m currently working on [DaoCloud](https://www.daocloud.io/en/), ex [EMC](https://en.wikipedia.org/wiki/Dell_EMC), ex [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University)
 
-😄 [Kubespray](https://github.com/kubernetes-sigs/kubespray), [Containerd/Nerdctl](https://github.com/containerd/nerdctl), [LWS(LeaderWorkerSet)](https://github.com/kubernetes-sigs/lws) Maintainer
+😄 One of [Kubespray](https://github.com/kubernetes-sigs/kubespray), [Containerd/Nerdctl](https://github.com/containerd/nerdctl), [LWS(LeaderWorkerSet)](https://github.com/kubernetes-sigs/lws) , [LLM-D](https://github.com/llm-d) Maintainer
 
 🌱 Learning and Sharing
 
