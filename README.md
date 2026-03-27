@@ -11,6 +11,7 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 🌱 Learning and Sharing
 
 Recent Events:
+- **2026 KubeCon EU**: [Tutorial: KV Cache Wins You Can Feel - Building AI-Aware LLM Routing on Kubernetes](https://kccnceu2026.sched.com/event/2CW5y/tutorial-kv-cache-wins-you-can-feel-building-ai-aware-llm-routing-on-kubernetes-tyler-michael-smith-red-hat-kay-yan-daocloud-vita-bortnikov-nili-guy-maroon-ayoub-ibm)
 - **2025 KubeCon Japan**: [Sailing Multi-host Inference for LLM on Kubernetes](https://kccncjpn2025.sched.com/event/1x6zY/sailing-multi-host-inference-for-llm-on-kubernetes-kay-yan-daocloud)
 - **2025 KubeCon China**: [AI-Powered Kubernetes Diagnostics With K8sGPT & Agentic AI](https://kccncchn2025.sched.com/event/1x5iR/cl-lightning-talk-ai-powered-kubernetes-diagnostics-with-k8sgpt-kay-yan-daocloud)
 - **2025 KubeCon China**: [Building Custom GPU Clusters at Scale][def]
