@@ -25,7 +25,7 @@ See [more slides](slides/README.md)
 * 2012 EMC Global Innovation Showcase CTO Award
 * 2007 Top 10 in [ACM/ICPC](https://en.wikipedia.org/wiki/International_Collegiate_Programming_Contest) Asian Regional Competition Nanjing Division
 
-![Metrics](https://github.com/yankay/yankay/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/yankay/yankay/output/github-metrics.svg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yankay/yankay/output/github-contribution-grid-snake.svg)
 

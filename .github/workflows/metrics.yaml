@@ -1,11 +1,10 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates (daily)
   schedule: [{cron: "0 1 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Allow manual runs
   workflow_dispatch:
-  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,6 +13,12 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Commit the generated SVG to the `output` branch instead of `main`
+          # so that main's history is not bloated by the daily ~1MB SVG update.
+          committer_branch: output
+          committer_message: "Update github-metrics.svg [skip ci]"
+          output_action: commit
 
           # Options
           user: yankay
