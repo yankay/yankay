@@ -2,8 +2,6 @@
 
 If you are interested in me, please email me:  📫 yankaycom@gmail.com. 
 
-🔗 [OpenProfile](https://openprofile.dev/profile/yankay) · [Sessionize](https://sessionize.com/kay-yan)
-
 ⚡ Fun fact: **Cloud Native**, **AI/LLM**  
 
 🔭 I’m currently working on [DaoCloud](https://www.daocloud.io/en/), ex [EMC](https://en.wikipedia.org/wiki/Dell_EMC), ex [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University)
@@ -14,7 +12,6 @@ If you are interested in me, please email me:  📫 yankaycom@gmail.com.
 
 Recent Highlights:
 - **2026 KubeCon EU**: [Tutorial: KV-Cache Wins You Can Feel: Building AI-Aware LLM Routing on Kubernetes](https://kccnceu2026.sched.com/event/2CW5y/tutorial-kv-cache-wins-you-can-feel-building-ai-aware-llm-routing-on-kubernetes-tyler-michael-smith-red-hat-kay-yan-daocloud-vita-bortnikov-michal-malka-maroon-ayoub-ibm)
-- **2025 KCD**: [Lightning Talk: Kubernetes Operations with Agentic AI Using Kubectl-AI](https://sessionize.com/download/xkapte~3UJbki4J5qae5b7YBuwie4.pptx~06-ji-yu-agentic-ai-de-kubernetes-yun-wei-li-yong-kubectl-ai-ti-sheng-xiao-lu-yan-kai-.pptx)
 - **2025 KubeCon Japan**: [Sailing Multi-host Inference for LLM on Kubernetes](https://kccncjpn2025.sched.com/event/1x6zY/sailing-multi-host-inference-for-llm-on-kubernetes-kay-yan-daocloud)
 - **2025 KubeCon China**: [AI-Powered Kubernetes Diagnostics With K8sGPT](https://kccncchn2025.sched.com/event/1x5iR/cl-lightning-talk-ai-powered-kubernetes-diagnostics-with-k8sgpt-kay-yan-daocloud)
 - **2025 KubeCon China**: [Building Custom GPU Clusters at Scale][def]
