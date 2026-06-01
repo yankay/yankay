@@ -1,6 +1,6 @@
 ## Hi 👋 I am Kay Yan (颜开)
 
-If you are interested in me, please email me:  📫 yankaycom@gmail.com. 
+If you are interested in me, please email me:  📫 yankay.com@gmail.com. 
 
 ⚡ Fun fact: **Cloud Native**, **AI/LLM**  
 
