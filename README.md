@@ -6,7 +6,7 @@ If you are interested in me, please email me:  📫 yankay.com@gmail.com.
 
 🔭 I’m currently working on [DaoCloud](https://www.daocloud.io/en/), ex [EMC](https://en.wikipedia.org/wiki/Dell_EMC), ex [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University)
 
-😄 Maintainer/contributor across selected projects including [Kubespray](https://github.com/kubernetes-sigs/kubespray), [nerdctl](https://github.com/containerd/nerdctl), [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt), [llm-d](https://github.com/llm-d), [Kubean](https://github.com/kubean-io/kubean), [Spiderpool](https://github.com/spidernet-io/spiderpool), [MatrixHub](https://github.com/matrixhub-ai/matrixhub), and [ClawWork](https://github.com/clawwork-ai/ClawWork)
+😄 Maintainer/contributor across selected projects including [Kubespray](https://github.com/kubernetes-sigs/kubespray), [llm-d](https://github.com/llm-d), [LWS](https://github.com/kubernetes-sigs/lws), [Spiderpool](https://github.com/spidernet-io/spiderpool), [Kubean](https://github.com/kubean-io/kubean), [ClawWork](https://github.com/clawwork-ai/ClawWork), [MatrixHub](https://github.com/matrixhub-ai/matrixhub), [nerdctl](https://github.com/containerd/nerdctl), and [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt)
 
 🌱 Learning and Sharing
 
