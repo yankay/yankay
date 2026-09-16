@@ -27,8 +27,7 @@ For collaboration or speaking inquiries, please email me:  📫 yankay.com@gmail
 
 ## Badges
 
-### Speaking
-
+<p>
 <a href="https://www.credly.com/badges/f6491325-9133-4866-bc15-f3fa89ca8baf"><img src="https://images.credly.com/size/680x680/images/a070e433-c751-4f0d-85dd-29a34d3a2db8/blob" alt="Speaker: KubeCon + CloudNativeCon Japan 2026" title="Speaker: KubeCon + CloudNativeCon Japan 2026" height="100"/></a>
 <a href="https://www.credly.com/badges/c816a613-8dab-4409-8cab-4ba9dbc00697"><img src="https://images.credly.com/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob" alt="Speaker: KubeCon + CloudNativeCon Europe 2026" title="Speaker: KubeCon + CloudNativeCon Europe 2026" height="100"/></a>
 <a href="https://www.credly.com/badges/47ef82d9-753d-4caf-96ac-78e9bbe75e92"><img src="https://images.credly.com/images/ebedf05f-3b04-4163-a147-9e469bdaddbf/blob" alt="Speaker: KubeCon + CloudNativeCon Japan 2025" title="Speaker: KubeCon + CloudNativeCon Japan 2025" height="100"/></a>
@@ -37,18 +36,13 @@ For collaboration or speaking inquiries, please email me:  📫 yankay.com@gmail
 <a href="https://www.credly.com/badges/eba94119-51e4-41bc-b8f6-da1ebb67dc98"><img src="https://images.credly.com/images/659b3a27-9b9d-4a19-8548-b686d3563c2b/image.png" alt="Speaker - KCD Shanghai 2024" title="Speaker - KCD Shanghai 2024" height="100"/></a>
 <a href="https://www.credly.com/badges/90cb3c21-02e1-4c1b-ae00-c64191e5bba9"><img src="https://images.credly.com/images/7452e181-d092-4b92-934f-dfc16d9061e9/image.png" alt="Speaker: KubeCon + CloudNativeCon Europe 2024" title="Speaker: KubeCon + CloudNativeCon Europe 2024" height="100"/></a>
 <a href="https://www.credly.com/badges/13a18705-89e0-4648-99e2-20536a240442"><img src="https://images.credly.com/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" alt="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023" title="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023" height="100"/></a>
-
-### Community Contributions
-
 <a href="https://www.credly.com/badges/abc31713-ef89-4cbd-8db3-8e1c9bd3ed3a"><img src="https://images.credly.com/images/f09ecd0d-af5b-4933-9919-5db84511eae4/blob" alt="Program Committee Member: KubeCon + CloudNativeCon Europe 2026" title="Program Committee Member: KubeCon + CloudNativeCon Europe 2026" height="100"/></a>
 <a href="https://www.credly.com/badges/faad92ac-525c-4c80-8d74-95c0d1909a61"><img src="https://images.credly.com/images/184b21c5-3f6c-49d7-97d7-9087d1676b99/blob" alt="Contributor - KCD Hangzhou 2025" title="Contributor - KCD Hangzhou 2025" height="100"/></a>
 <a href="https://www.credly.com/badges/9849f69d-fda2-4581-be55-1e26259474ba"><img src="https://images.credly.com/images/43195a73-9ee6-40c7-bd75-eae8515ac836/blob" alt="Program Committee Member: KubeCon + CloudNativeCon China 2025" title="Program Committee Member: KubeCon + CloudNativeCon China 2025" height="100"/></a>
-
-### Certifications
-
 <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" title="CKA: Certified Kubernetes Administrator" height="100"/>
 <img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" title="CKS: Certified Kubernetes Security Specialist" height="100"/>
 <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" title="CKAD: Certified Kubernetes Application Developer" height="100"/>
+</p>
 
 ## Photos
 
@@ -56,7 +50,7 @@ For collaboration or speaking inquiries, please email me:  📫 yankay.com@gmail
 
 ## GitHub Activity
 
-<details>
+<details open>
 <summary>Metrics and contributions</summary>
 
 ![GitHub metrics](https://raw.githubusercontent.com/yankay/yankay/metrics-renders/github-metrics.svg)
