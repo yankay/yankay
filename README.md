@@ -27,6 +27,7 @@ For collaboration or speaking inquiries, please email me:  📫 yankay.com@gmail
 
 ## Badges
 
+<p>
 <a href="https://www.credly.com/badges/f6491325-9133-4866-bc15-f3fa89ca8baf"><img src="https://images.credly.com/size/680x680/images/a070e433-c751-4f0d-85dd-29a34d3a2db8/blob" alt="Speaker: KubeCon + CloudNativeCon Japan 2026" title="Speaker: KubeCon + CloudNativeCon Japan 2026" height="100"/></a>
 <a href="https://www.credly.com/badges/c816a613-8dab-4409-8cab-4ba9dbc00697"><img src="https://images.credly.com/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob" alt="Speaker: KubeCon + CloudNativeCon Europe 2026" title="Speaker: KubeCon + CloudNativeCon Europe 2026" height="100"/></a>
 <a href="https://www.credly.com/badges/47ef82d9-753d-4caf-96ac-78e9bbe75e92"><img src="https://images.credly.com/images/ebedf05f-3b04-4163-a147-9e469bdaddbf/blob" alt="Speaker: KubeCon + CloudNativeCon Japan 2025" title="Speaker: KubeCon + CloudNativeCon Japan 2025" height="100"/></a>
@@ -41,6 +42,7 @@ For collaboration or speaking inquiries, please email me:  📫 yankay.com@gmail
 <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" title="CKA: Certified Kubernetes Administrator" height="100"/>
 <img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" title="CKS: Certified Kubernetes Security Specialist" height="100"/>
 <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" title="CKAD: Certified Kubernetes Application Developer" height="100"/>
+</p>
 
 ## Photos
 
