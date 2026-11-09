@@ -28,6 +28,7 @@ For collaboration or speaking inquiries, please email me:  📫 yankay.com@gmail
 ## Badges
 
 <p>
+<a href="https://www.credly.com/badges/f6e7a112-bf5b-43e0-bbc4-7fec41ae4605"><img src="https://images.credly.com/size/680x680/images/619a0bf1-fd83-4e0a-a58c-fdbb3ba3ecb7/blob" alt="Speaker: KubeCon + CloudNativeCon + OpenInfra Summit + Pytorch China 2026" title="Speaker: KubeCon + CloudNativeCon + OpenInfra Summit + Pytorch China 2026" height="100"/></a>
 <a href="https://www.credly.com/badges/f6491325-9133-4866-bc15-f3fa89ca8baf"><img src="https://images.credly.com/size/680x680/images/a070e433-c751-4f0d-85dd-29a34d3a2db8/blob" alt="Speaker: KubeCon + CloudNativeCon Japan 2026" title="Speaker: KubeCon + CloudNativeCon Japan 2026" height="100"/></a>
 <a href="https://www.credly.com/badges/c816a613-8dab-4409-8cab-4ba9dbc00697"><img src="https://images.credly.com/images/56cff060-8267-4cc5-a6b0-b35141b3beeb/blob" alt="Speaker: KubeCon + CloudNativeCon Europe 2026" title="Speaker: KubeCon + CloudNativeCon Europe 2026" height="100"/></a>
 <a href="https://www.credly.com/badges/47ef82d9-753d-4caf-96ac-78e9bbe75e92"><img src="https://images.credly.com/images/ebedf05f-3b04-4163-a147-9e469bdaddbf/blob" alt="Speaker: KubeCon + CloudNativeCon Japan 2025" title="Speaker: KubeCon + CloudNativeCon Japan 2025" height="100"/></a>
